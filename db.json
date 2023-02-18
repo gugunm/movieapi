@@ -1,0 +1,28 @@
+{
+  "movies": [
+    {
+      "title": "ANT-MAN AND THE WASP: QUANTUMANIA",
+      "producer": "Stephen Broussard, Kevin Feige",
+      "director": "Peyton Reed",
+      "genres": ["Action", "Adventure", "Comedy"],
+      "duration": 124,
+      "rating": 9.0,
+      "ageRating": "All Age",
+      "synopsis": "Scott Lang (Paul Rudd), Hope Van Dyne (Evangeline Lilly) Dr. Hank Pym (Michael Douglas) dan Janet Van Dyne (Michelle Pfeiffer) menjelajahi Alam Kuantum, tempat mereka bertemu dengan makhluk aneh dan memulai petualangan yang melampaui batas yang mereka pikir mungkin.",
+      "cover": "https://asset.tix.id/wp-content/uploads/2023/02/e2b0b583-1688-4067-8539-b324ad3121be-600x885.jpeg",
+      "trailer": "https://youtu.be/5WfTEZJnv_8"
+    },
+    {
+      "title": "TITANIC",
+      "producer": "James Cameron, Jon Landau",
+      "director": "James Cameron",
+      "genres": ["Drama", "Romance"],
+      "duration": 195,
+      "rating": 8.7,
+      "ageRating": "17+",
+      "synopsis": "Cerita fiksi tentang tenggelamnya kapal Titanic, Jack Dawson (Leonardo DiCaprio) dan Rose DeWitt Bukater (Kate Winslet) penumpang dari golongan sosial berbeda jatuh cinta selama pelayaran perdana di kapal impian yang berakhir tragis.",
+      "cover": "https://asset.tix.id/wp-content/uploads/2023/02/a8d28f0f9abc4cf99e8c2cd57b9b11f9-600x885.jpg",
+      "trailer": "https://youtu.be/lP6-9XeEbPc"
+    }
+  ]
+}
